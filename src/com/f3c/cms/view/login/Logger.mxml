@@ -7,6 +7,7 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	
-	<s:Panel width="100%" />
-	
+	<s:Panel width="100%">
+		<s:Button label="Artek"/>
+	</s:Panel>
 </s:Application>
